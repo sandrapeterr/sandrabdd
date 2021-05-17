@@ -10,6 +10,8 @@ public class sandra1 {
 		{
 			System.out.println(i);
 			System.out.println("/n");
+			System.out.println("/n");
+			System.out.println("/n");
 		}
 	}
 
