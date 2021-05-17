@@ -1,8 +1,8 @@
 package test;
 
-public class sandra1 {
-	
-	public static void main(String[] args ) {
+public class demo1 {
+
+public static void main(String[] args ) {
 		
 		System.out.println("Hi github");
 		
@@ -14,5 +14,4 @@ public class sandra1 {
 			System.out.println("/n");
 		}
 	}
-
 }
